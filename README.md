@@ -1,6 +1,7 @@
 ## 2048 Puzzle Game
 
-https://github.com/JXB2022032/Puzzle-Game-2048/assets/96196349/80406fa6-fdda-4106-96a1-69c2e83c03b5
+
+https://github.com/JXB2022032/Puzzle-Game-2048/assets/96196349/98567ec9-198f-4174-beec-1407d08aedc7
 
 
 2048 is a popular and engaging single-player sliding block puzzle game, designed with simple gameplay mechanics but offering a compelling and progressively challenging experience. The main objective of the game is to combine tiles displaying identical numbers, which subsequently merge into a single tile with their combined value, with the ultimate goal of creating a tile with the value of 2048.
